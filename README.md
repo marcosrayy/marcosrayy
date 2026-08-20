@@ -64,7 +64,7 @@ Landing page simples para uma startup fictícia chamada Focus Academy
 Projeto Acadêmico - Clarim Food Açai e Sorvetes
 
 ### 🥤 [Coca-Cola Landing Page](https://github.com/marcosrayy/landing-page-coca-cola)
-Projeto desenvolvido para estudos de Front-End.
+Landing Page inspirada na identidade visual da Coca-Cola, desenvolvida como projeto de estudos em Front-End.
 
 ---
 
