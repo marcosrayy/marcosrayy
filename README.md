@@ -23,7 +23,7 @@ Sou estudante de Desenvolvimento de Sistemas e foco em criar interfaces modernas
 * 🎨 Interfaces modernas
 * ⚡ Otimização de desempenho
 * 🌐 HTML, CSS e JavaScript
-* 📖 Aprendendo React
+* 📖 Estudando React
 * 🔒 Boas práticas de código
 * 🚀 Foco em experiência do usuário
 
