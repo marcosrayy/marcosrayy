@@ -1,77 +1,62 @@
-# Olá 👋, eu sou Marcos Ray
+Olá, eu sou Marcos Ray!
 
-### 💻 Desenvolvedor Front-End em formação
+Desenvolvedor Front-End em formação
 
-🇧🇷 Fortaleza - Ceará
+📍 Fortaleza - Ceará, Brasil
 
-Sou estudante de Desenvolvimento de Sistemas e foco em criar interfaces modernas, responsivas e com boa experiência para o usuário, sempre buscando evoluir minhas habilidades e construir projetos cada vez melhores.
-
----
-
-# 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marcos-ray-47b82333a/)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/85996147367)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/marcosray_)
+Sou estudante de Desenvolvimento de Sistemas e atualmente estou focado em Front-End. Gosto de criar sites e interfaces, testar novas ideias e aprender colocando tudo em prática nos meus projetos.
 
 ---
 
-# 🧠 O que eu faço
+🌐 Onde me encontrar
 
-* 💻 Desenvolvimento de sites institucionais
-* 📱 Landing Pages responsivas
-* 🎨 Interfaces modernas
-* ⚡ Otimização de desempenho
-* 🌐 HTML, CSS e JavaScript
-* 📖 Estudando React
-* 🔒 Boas práticas de código
-* 🚀 Foco em experiência do usuário
+""LinkedIn" (https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/marcos-ray-47b82333a/)
+""WhatsApp" (https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" (https://wa.me/85996147367)
+""Instagram" (https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://instagram.com/marcosray_)
 
 ---
 
-# 🛠 Tecnologias
+🛠️ Tecnologias
 
-### Front-end
+Front-End
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Ferramentas
+</p>Ferramentas
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,chrome" />
-</p>
+</p>---
+
+📚 Estudando atualmente
+
+- JavaScript
+- React
+- Git e GitHub
+- Desenvolvimento de interfaces
 
 ---
 
-# 📚 Atualmente estudando
+📂 Projetos
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript%20Avançado-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git%20e%20GitHub-111111?style=for-the-badge"/>
-</p>
+"Focus Academy" (https://github.com/marcosrayy/focus-academy)
 
+Landing page criada para uma startup fictícia chamada Focus Academy.
 
+"Clarim Food" (https://github.com/marcosrayy/clarim-food)
 
-# 📂 Projetos em destaque
+Projeto acadêmico feito em equipe. O projeto consiste em um site para uma loja de açaí e sorvetes.
 
-### 🇫 [Focus Academy](https://github.com/marcosrayy/focus-academy)
-Landing page simples para uma startup fictícia chamada Focus Academy
+"Coca-Cola Landing Page" (https://github.com/marcosrayy/landing-page-coca-cola)
 
-### 🧁 [Clarim Food](https://github.com/marcosrayy/clarim-food)
-Projeto Acadêmico - Clarim Food Açai e Sorvetes
-
-### 🥤 [Coca-Cola Landing Page](https://github.com/marcosrayy/landing-page-coca-cola)
-Landing Page inspirada na identidade visual da Coca-Cola, desenvolvida como projeto de estudos em Front-End.
+Landing page inspirada na identidade visual da Coca-Cola, feita como projeto de estudo em Front-End.
 
 ---
 
-# 🎯 Objetivo
+🎯 Objetivo
 
-Atualmente estou construindo meu portfólio como Desenvolvedor Front-End e buscando oportunidades para transformar ideias em sites modernos, rápidos e profissionais.
+Estou buscando evoluir cada vez mais como desenvolvedor Front-End, criando projetos para praticar meus conhecimentos e montar meu portfólio.
 
 ---
 
-> ### 💜 "Cada projeto é uma oportunidade de aprender, evoluir e entregar valor."
+«"Sempre aprendendo e tentando fazer melhor."»
