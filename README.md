@@ -16,14 +16,13 @@ Sou estudante de Desenvolvimento de Sistemas e foco em criar interfaces modernas
 
 ---
 
-# 🧠 O que eu faço
+#  O que eu faço:
 
 *  Desenvolvimento de sites institucionais
 *  Landing Pages responsivas
 *  Interfaces modernas
 *  Otimização de desempenho
 *  HTML, CSS e JavaScript
-*  Aprendendo React
 *  Boas práticas de código
 *  Foco em experiência do usuário
 
@@ -34,7 +33,7 @@ Sou estudante de Desenvolvimento de Sistemas e foco em criar interfaces modernas
 ### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Ferramentas
@@ -57,18 +56,18 @@ Sou estudante de Desenvolvimento de Sistemas e foco em criar interfaces modernas
 
 # 📂 Projetos em destaque
 
-### 🇫 [Focus Academy](https://github.com/marcosrayy/focus-academy)
+###  [Focus Academy](https://github.com/marcosrayy/focus-academy)
 Landing page simples para uma startup fictícia chamada Focus Academy
 
-### 🧁 [Clarim Food](https://github.com/marcosrayy/clarim-food)
+###  [Clarim Food](https://github.com/marcosrayy/clarim-food)
 Projeto Acadêmico - Clarim Food Açai e Sorvetes
 
-### 🥤 [Coca-Cola Landing Page](https://github.com/marcosrayy/landing-page-coca-cola)
+###  [Coca-Cola Landing Page](https://github.com/marcosrayy/landing-page-coca-cola)
 Projeto desenvolvido para estudos de Front-End.
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Atualmente estou construindo meu portfólio como Desenvolvedor Front-End e buscando oportunidades para transformar ideias em sites modernos, rápidos e profissionais.
 
