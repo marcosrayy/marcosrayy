@@ -16,6 +16,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_habits: yes
           plugin_calendar: yes
           config_timezone: America/Fortaleza
