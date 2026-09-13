@@ -1,8 +1,5 @@
 <h1 align="center">
-  Olá, eu sou o Marcos Ray
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
-</h1>
-
+  Olá, eu sou o Marcos Ray!
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript+%7C+React;Transformando+ideias+em+interfaces" />
 </p>
