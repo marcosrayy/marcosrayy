@@ -1,9 +1,10 @@
 <h1 align="center">
-  Olá, eu sou o Marcos Ray!
+  Olá, eu sou o Marcos Ray
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=460&lines=Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript+%7C+React;Transformando+ideias+em+interfaces" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript+%7C+React;Transformando+ideias+em+interfaces" />
 </p>
 
 <p align="center">
@@ -28,34 +29,6 @@
 </p>
 
 <br/>
-
-## Atividade
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marcosrayy/marcosrayy/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-<br/>
-
-## Estatísticas
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=marcosrayy&show_icons=true&locale=pt-br&theme=transparent&hide_border=true&count_private=true&include_all_commits=true"
-    height="195"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosrayy&layout=default&theme=transparent&hide_border=true&langs_count=8"
-    height="195"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=marcosrayy&theme=transparent&hide_border=true"
-    width="70%"
-  />
-</p>
 
 <br/>
 
