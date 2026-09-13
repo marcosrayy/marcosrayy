@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Localização-Fortaleza,%20CE-111111?style=for-the-badge" />
-  <a href="https://www.linkedin.com/in/marcos-ray-47b82333/">
+  <a href="https://www.linkedin.com/in/marcos-ray-47b82333a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/85996147367">
@@ -60,6 +60,7 @@ Landing page desenvolvida para praticar fundamentos de Front-End.
 
 ## Objetivo
 
-Estou construindo meu portfólio como desenvolvedor Front-End e buscando minha primeira oportunidade na área, com foco em continuar evoluindo através de projetos reais e trabalho em equipe.
+Pretendo evoluir constantemente como desenvolvedor Front-End, aplicando na prática o que venho estudando em HTML, CSS, JavaScript, TypeScript e React.
+Gosto de aprender com projetos reais e trabalho em equipe, sempre buscando aprimorar minhas habilidades.
 
 <br/>
