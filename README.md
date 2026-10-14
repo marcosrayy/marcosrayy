@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=Olá,+sou+o+Marcos+Ray!;+Dev+Front-End" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Ol%C3%A1%2C+sou+Marcos+Ray%21;Dev+Front+End" />
 </p>
-
 
 ##  Conecte-se comigo
 
